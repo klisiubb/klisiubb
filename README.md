@@ -1,11 +1,19 @@
 # 💫 About Me:
 
-Hi, I am Mateusz Kliś.
-Currently working on several projects, primarily focused on rewriting my engineering thesis app to make it better and more universal. I'm also developing my personal website with a portfolio showcase and blog. In the near future, the focus will shift to creating a personalized password manager and a modern version of 'Ask.fm'.<br><br>Seeking a FullStack developer position with readiness to relocate to any city in Europe after graduating in 2025. For now, prefer opportunities in Bielsko-Biała or remote roles.<br><br>Eager to learn the technologies and frameworks used by your company.
+👋 Hi, I am **Mateusz Kliś** - CS student at University of Bielsko-Biała and Next.js developer.  
+💼 Currently working on several projects, primarily focused on rewriting my [engineering thesis app](https://github.com/klisiubb/event-app) to make it better and more universal.  
+🌐 I'm also developing my [personal website](https://github.com/klisiubb/portfolio) with a portfolio showcase and blog.  
+🔒 In the near future, I will shift focus to building a personalized password manager and more...
 
-## 🌐 Socials:
+🎯 I'm actively seeking a **FullStack developer** position with readiness to relocate to any city in Europe after graduating in **2025**.  
+🌍 For now, I'm open to opportunities in **Bielsko-Biała** or remote roles.  
+🚀 Eager to learn the technologies and frameworks used by your company!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/klisiubb)
+# 🌐 Contact me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230072C6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/klisiubb) 
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white)](https://klisiu.me) 
+[![Email](https://img.shields.io/badge/Outlook-%230072C6.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:klismateusz@outlook.com)
 
 # 💻 Tech Stack:
 
@@ -13,7 +21,6 @@ Currently working on several projects, primarily focused on rewriting my enginee
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=klisiubb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=klisiubb&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=klisiubb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
