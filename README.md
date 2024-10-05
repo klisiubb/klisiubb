@@ -1,13 +1,22 @@
-# 💫 About Me:
+# 💫 About Me
 
-👋 Hi, I am **Mateusz Kliś** - CS student at University of Bielsko-Biała and Next.js developer.  
-💼 Currently working on several projects, primarily focused on rewriting my [engineering thesis app](https://github.com/klisiubb/event-app) to make it better and more universal.  
-🌐 I'm also developing my [personal website](https://github.com/klisiubb/portfolio) with a portfolio showcase and blog.  
-🔒 In the near future, I will shift focus to building a personalized password manager and more...
+<div align="center">
 
-🎯 I'm actively seeking a **FullStack developer** position with readiness to relocate to any city in Europe after graduating in **2025**.  
-🌍 For now, I'm open to opportunities in **Bielsko-Biała** or remote roles.  
-🚀 Eager to learn the technologies and frameworks used by your company!
+## 👋 Hi, I am **Mateusz Kliś** - CS student at the University of Bielsko-Biała and Next.js developer.
+
+</div>
+
+I am currently working on several projects, primarily focused on rewriting my [engineering thesis app](https://github.com/klisiubb/event-app) to enhance its functionality and universality.
+
+I am also developing my [personal website](https://github.com/klisiubb/portfolio) to showcase my portfolio and blog.
+
+In the near future, I plan to shift focus towards building a personalized password manager and other related projects.
+
+I am actively seeking a **FullStack Developer** position with a readiness to relocate to any city in Europe after graduating in **2025**.
+
+Currently, I am open to opportunities in **Bielsko-Biała** or remote roles.
+
+I am eager to learn the technologies and frameworks utilized by your company.
 
 # 🌐 Contact me:
 
