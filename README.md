@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi, I'am Mateusz Kliś.
+Hi, I am Mateusz Kliś.
 Currently working on several projects, primarily focused on rewriting my engineering thesis app to make it better and more universal. I'm also developing my personal website with a portfolio showcase and blog. In the near future, the focus will shift to creating a personalized password manager and a modern version of 'Ask.fm'.<br><br>Seeking a FullStack developer position with readiness to relocate to any city in Europe after graduating in 2025. For now, prefer opportunities in Bielsko-Biała or remote roles.<br><br>Eager to learn the technologies and frameworks used by your company.
 
 ## 🌐 Socials:
