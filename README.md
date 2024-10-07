@@ -35,12 +35,12 @@ I am eager to learn the technologies and frameworks utilized by your company.
 - React Native (Expo)
 - Everything else, I never stop learning!
 
-
 # 📊 GitHub Stats:
-
+<div align="center">
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=klisiubb&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=klisiubb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
 [![](https://visitcount.itsvg.in/api?id=klisiubb&icon=2&color=1)](https://visitcount.itsvg.in)
+</div>
