@@ -34,6 +34,7 @@ I am eager to learn the technologies and frameworks utilized by your company.
 - Framer Motion
 - React Native (Expo)
 - Everything else, I never stop learning!
+- React 19/Next 15
 
 # 📊 GitHub Stats:
 <div align="center">
