@@ -10,7 +10,7 @@ I am currently working on several projects, primarily focused on rewriting my [e
 
 I am also developing my [personal website](https://github.com/klisiubb/portfolio) to showcase my portfolio and blog.
 
-In the near future, I plan to shift focus towards building a personalized password manager and other related projects.
+In the near future, I plan to shift focus towards building a personalized password manager.
 
 I am actively seeking a **FullStack Developer** position with a readiness to relocate to any city in Europe after graduating in **2025**.
 
