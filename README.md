@@ -6,11 +6,15 @@
 
 </div>
 
-I am currently working on several projects, primarily focused on rewriting my [engineering thesis app](https://github.com/klisiubb/event-app) to enhance its functionality and universality.
+I am currently working on several projects including:
 
-I am also developing my [personal website](https://github.com/klisiubb/portfolio) to showcase my portfolio and blog.
+- budget app with stats. [budget tracking app](https://github.com/klisiubb/budget-tracker). Live demo can be found at: [here](https://budget-tracker.klisiu.me).
 
-In the near future, I plan to shift focus towards building a personalized password manager.
+- rewriting my [engineering thesis app](https://github.com/klisiubb/event-app) to enhance its functionality and universality. Live demo can be found at: [Click me](https://event.klisiu.me). Attention: it requires admin role to work - dm me.
+
+- developing my [personal website](https://github.com/klisiubb/portfolio) to showcase my portfolio and blog. Live demo can be found at: [Click me](https://klisiu.me).
+
+In the near future, I plan to shift focus towards building a personalized password manager with 2FA.
 
 I am actively seeking a **FullStack Developer** position with a readiness to relocate to any city in Europe after graduating in **2025**.
 
