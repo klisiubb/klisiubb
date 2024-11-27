@@ -8,9 +8,9 @@
 
 I am currently working on several projects including:
 
-- budget app with stats. [budget tracking app](https://github.com/klisiubb/budget-tracker). Live demo can be found at: [here](https://budget-tracker.klisiu.me).
+- rewriting my [engineering thesis app](https://github.com/klisiubb/event-app) to enhance its functionality and universality. Live demo can be found at: [Click me](https://event.klisiu.me). This is the project you should check.
 
-- rewriting my [engineering thesis app](https://github.com/klisiubb/event-app) to enhance its functionality and universality. Live demo can be found at: [Click me](https://event.klisiu.me). Attention: it requires admin role to work - dm me.
+- budget app with stats. [budget tracking app](https://github.com/klisiubb/budget-tracker). Live demo can be found at: [here](https://budget-tracker.klisiu.me).
 
 - developing my [personal website](https://github.com/klisiubb/portfolio) to showcase my portfolio and blog. Live demo can be found at: [Click me](https://klisiu.me).
 
