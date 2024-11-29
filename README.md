@@ -6,9 +6,15 @@
 
 </div>
 
-I am currently working on several projects including:
+I'm working mostly on rewriting my [engineering thesis app](https://github.com/klisiubb/event-app) to enhance its functionality and universality.
 
-- rewriting my [engineering thesis app](https://github.com/klisiubb/event-app) to enhance its functionality and universality. Live demo can be found at: [Click me](https://event.klisiu.me). This is the project you should check.
+Live demo: [event.klisiu.me](https://event.klisiu.me)
+
+**This is the project you should check - it was used in well-known local IT conference.**
+
+Later im planning to:
+
+- rewrite mobile app for my Event App. Used to scan QR, check presence, draw rewards.
 
 - budget app with stats. [budget tracking app](https://github.com/klisiubb/budget-tracker). Live demo can be found at: [here](https://budget-tracker.klisiu.me).
 
@@ -34,11 +40,12 @@ I am eager to learn the technologies and frameworks utilized by your company.
 
 # 📚 Currently Learning:
 
+- React 19/Next 15
 - Advanced CSS
 - Framer Motion
 - React Native (Expo)
 - Everything else, I never stop learning!
-- React 19/Next 15
+
 
 # 📊 GitHub Stats:
 <div align="center">
