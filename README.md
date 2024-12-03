@@ -12,15 +12,7 @@ Live demo: [event.klisiu.me](https://event.klisiu.me)
 
 **This is the project you should check - it was used in well-known local IT conference.**
 
-Later im planning to:
-
-- rewrite mobile app for my Event App. Used to scan QR, check presence, draw rewards.
-
-- budget app with stats. [budget tracking app](https://github.com/klisiubb/budget-tracker). Live demo can be found at: [here](https://budget-tracker.klisiu.me).
-
-- developing my [personal website](https://github.com/klisiubb/portfolio) to showcase my portfolio and blog. Live demo can be found at: [Click me](https://klisiu.me).
-
-In the near future, I plan to shift focus towards building a personalized password manager with 2FA.
+Also I' working on my SAAS for other SAAS builders. More info about this will be published in the near future.
 
 I am actively seeking a **FullStack Developer** position with a readiness to relocate to any city in Europe after graduating in **2025**.
 
