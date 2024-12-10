@@ -24,7 +24,7 @@ I am eager to learn the technologies and frameworks utilized by your company.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230072C6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/klisiubb) 
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white)](https://klisiu.me) 
-[![Email](https://img.shields.io/badge/Outlook-%230072C6.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:klismateusz@outlook.com)
+
 
 # 💻 Tech Stack:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
