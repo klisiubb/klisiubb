@@ -12,14 +12,6 @@ Live demo: [event.klisiu.me](https://event.klisiu.me)
 
 **This is the project you should check - it was used in well-known local IT conference.**
 
-Also I' working on my SAAS for other SAAS builders. More info about this will be published in the near future.
-
-I am actively seeking a **FullStack Developer** position with a readiness to relocate to any city in Europe after graduating in **2025**.
-
-Currently, I am open to opportunities in **Bielsko-Biała** or remote roles.
-
-I am eager to learn the technologies and frameworks utilized by your company.
-
 # 🌐 Contact me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230072C6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/klisiubb) 
